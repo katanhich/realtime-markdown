@@ -1,0 +1,25 @@
+{
+  "name": "realtime-markdown",
+  "version": "1.0.0",
+  "description": "Build a Real-Time Markdown Editor with Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katanhich/realtime-markdown.git"
+  },
+  "author": "Cao Hong Phuoc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/katanhich/realtime-markdown/issues"
+  },
+  "homepage": "https://github.com/katanhich/realtime-markdown#readme",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.14.0",
+    "redis": "^2.6.2",
+    "share": "^0.6.3"
+  }
+}
